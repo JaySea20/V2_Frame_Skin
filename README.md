@@ -1,6 +1,6 @@
 # V2_Frame_Skin  
 Rounded Extrusion Covers to give your Voron 2.4 a sleek, smooth asthetic.  
-![](Gallery/Frame Skin v0.1 - 350mm (1) v3.png)  
+![](Gallery/Frame%20Skin%20v0.1%20-%20350mm%20(1)%20v3.png)  
   
 I Love my Voron 2.4r2. It sets a new bar for what a 3D Printer should be capable of.  
 But, Ive never really liked the look of the Aluminum Extrusions that have been so commonly utilized for DIY CNC machines, printers, etc...  
