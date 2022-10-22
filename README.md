@@ -18,4 +18,4 @@ So, I started from scratch with a few goals:
  Tolerances are tight. So calibration needs to be spot on. I tried printing some of them on my Ender3 and found its kinematics to be too sloppy.  
  Several of the parts will need supports. ( Hinge Body, Upper Corners, etc )  
  
- 
+ Individual STL's Coming Soon...
