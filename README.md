@@ -22,8 +22,8 @@ So, I started from scratch with a few goals:
    
  M3x8 Screws & Hammerhead T-Nuts for Bottom Rails     
    
- M2x16 Screws for Hinges
- ![](Gallery/Hinge_Pins.png.png)  
+ M2x16 Screws for Hinges  
+ ![](Gallery/Hinge_Pins.png)  
    
  Hammer in M3 Heat Set Inserts in Top End of Aluminum Frame Extrusions. ( I used a bit of thread locker )  
  ![](Gallery/HeatSetInsert-01.png)  
