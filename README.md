@@ -17,6 +17,16 @@ So, I started from scratch with a few goals:
  I found that printing them standing vertically worked the best for me. YMMV  
  Tolerances are tight. So calibration needs to be spot on. I tried printing some of them on my Ender3 and found its kinematics to be too sloppy.  
  Several of the parts will need supports. ( Hinge Body, Upper Corners, etc )  
+   
+ BOM  
+| Part  | Quantity |
+| --- | --- |
+| Heat Set Inserts  | 4 |
+| 6x3 Magnets | 8 |
+| M3 Hammerhead T-Nuts| 32 |
+| M3x12 SHCS | 4 |
+| M3x8 SHCS | 32 |
+| M2x16 SHCS | 12 |  
  
  Individual STL's Have Arrived  
    
