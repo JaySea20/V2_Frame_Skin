@@ -18,10 +18,14 @@ So, I started from scratch with a few goals:
  Tolerances are tight. So calibration needs to be spot on. I tried printing some of them on my Ender3 and found its kinematics to be too sloppy.  
  Several of the parts will need supports. ( Hinge Body, Upper Corners, etc )  
  
- Individual STL's Have Arrived
- 
- M3x8 Screws for Bottom Rails
- Hammer in M3 Heat Set Inserts in Top End of Aluminum Frame Extrusions. ( I used a bit of thread locker )
- All pieces slide onto extrusions.
+ Individual STL's Have Arrived  
+   
+ M3x8 Screws for Bottom Rails     
+   
+ Hammer in M3 Heat Set Inserts in Top End of Aluminum Frame Extrusions. ( I used a bit of thread locker )  
+ ![](Gallery/HeatSetInsert-01.png)  
+   
+ All pieces slide onto extrusions.  
+   
  Thin double Sided Adhesive for hinges similar to 3M 468MP ( Not VHB. VHB is too thick )
  
