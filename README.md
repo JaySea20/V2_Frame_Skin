@@ -27,18 +27,6 @@ So, I started from scratch with a few goals:
 | M3x12 SHCS | 4 |
 | M3x8 SHCS | 32 |
 | M2x16 SHCS | 12 |  
- 
- Individual STL's Have Arrived  
-   
- M3x8 Screws & Hammerhead T-Nuts for Bottom Rails     
-   
- M2x16 Screws for Hinges  
- ![](Gallery/Hinge_Pins.png)  
-   
- Hammer in M3 Heat Set Inserts in Top End of Aluminum Frame Extrusions. ( I used a bit of thread locker )  
- ![](Gallery/HeatSetInsert-01.png)  
-   
- All pieces slide onto extrusions.  
-   
- Thin double Sided Adhesive for hinges similar to 3M 468MP ( Not VHB. VHB is too thick )
+  
+-Jay
  
